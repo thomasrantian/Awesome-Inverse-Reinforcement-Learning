@@ -36,6 +36,9 @@ Zero-sum Games, IEEE Transactions on Games, 2017. \[[paper](https://ieeexplore.i
 
 - Multi-Agent Adversarial Inverse Reinforcement Learning, ICML, 2019. \[[paper](http://proceedings.mlr.press/v97/yu19e.html)\]\[[code](https://github.com/ermongroup/MA-AIRL)\]
 
+- Scalable Multi-Agent Inverse Reinforcement Learning via Actor-Attention-Critic, arXiv, 2020. \[[paper](https://arxiv.org/abs/2002.10525)\]
+
+
 
 ## IRL in POMDP Formulation
 - Inverse Reinforcement Learning in Partially Observable Environments, JMLR, 2011. \[[paper](http://www.jmlr.org/papers/volume12/choi11a/choi11a.pdf)\]
